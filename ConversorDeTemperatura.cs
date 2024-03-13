@@ -64,9 +64,6 @@ public class ConversorDeTemperatura
                 UserNum = 0;
                 break;
         }   
-            
-            
-        
         } while (UserNum != 0);
         
         Console.WriteLine("Pressione qualquer tecla para encerrar");
